@@ -1,0 +1,315 @@
+TITLE: De-Google your life: These 17 privacy-obsessed apps will set you free | PCWorld
+URL: https://www.pcworld.com/article/2857908/de-google-your-life-these-17-privacy-obsessed-apps-will-set-you-free.html
+==================================================
+
+De-Google your life: These 17 privacy-obsessed apps will set you free | PCWorld
+Consumer AI
+Home Robotics
+Performance
+Privacy
+Productivity
+More
+Accessories
+Business
+Entertainment
+Gaming
+Laptops
+Mobile
+Monitors
+PCs & Components
+Security
+Smart Home Security
+Software
+Storage
+Streaming
+Wi-Fi & Networks
+Windows
+By Story Type
+News
+Best Picks
+Reviews
+How-To
+Deals
+Newsletters
+Digital Magazine
+Digital Magazine – Subscribe
+Digital Magazine – Info
+Smart Answers
+Client Content
+BrandPosts
+Smarter Document Workflows Start with Nitro
+The 1Password Guide to Password Managers
+The Avast Online Security Buyer’s Guide
+The Dell 2026 buying guide: Laptops, monitors and Alienware gaming gear
+The Dell & Alienware 2026 Wish List
+The EaseUS PC Utility Buying Guide
+The 2026 ECOVACS Robot Vacuum & Window Robot Buying Guide
+The GIGABYTE Guide to AI Gaming Laptops
+The MSI AI PC Buyer’s Guide
+The MSI Guide to Wi-Fi 7: How to Fix Wireless Dead Zones and Upgrade to Wi-Fi 7 at Home
+The Navimow Robot Lawn Mower Buying Guide
+The Norton Security Buyer’s Guide
+The Norton Small Business Security Buyer’s Guide
+The Optery Guide to Personal Data Removal
+The Roborock Guide to Smarter Floor Cleaning
+The ROG Custom Gaming Keyboard Buyer’s Guide
+The Seagate & LaCie External Storage Buyer’s Guide
+The T-Mobile 5G and Fiber Home Internet Buying Guide
+The TP-Link Guide to Modern Mesh Home Wi-Fi
+The ZOTAC GAMING Graphics Card & MEK PC Buyer’s Guide
+Skip to content
+Menu
+Consumer AI
+Home Robotics
+Performance
+Privacy
+Productivity
+More
+Expand More
+Accessories
+Business
+Entertainment
+Gaming
+Laptops
+Mobile
+Monitors
+PCs & Components
+Security
+Smart Home Security
+Software
+Storage
+Streaming
+Wi-Fi & Networks
+Windows
+By Story Type
+Expand By Story Type
+News
+Best Picks
+Reviews
+How-To
+Deals
+Newsletters
+Digital Magazine
+Expand Digital Magazine
+Digital Magazine – Subscribe
+Digital Magazine – Info
+Smart Answers
+Client Content
+Expand Client Content
+BrandPosts
+Smarter Document Workflows Start with Nitro
+The 1Password Guide to Password Managers
+The Avast Online Security Buyer’s Guide
+The Dell 2026 buying guide: Laptops, monitors and Alienware gaming gear
+The Dell & Alienware 2026 Wish List
+The EaseUS PC Utility Buying Guide
+The 2026 ECOVACS Robot Vacuum & Window Robot Buying Guide
+The GIGABYTE Guide to AI Gaming Laptops
+The MSI AI PC Buyer’s Guide
+The MSI Guide to Wi-Fi 7: How to Fix Wireless Dead Zones and Upgrade to Wi-Fi 7 at Home
+The Navimow Robot Lawn Mower Buying Guide
+The Norton Security Buyer’s Guide
+The Norton Small Business Security Buyer’s Guide
+The Optery Guide to Personal Data Removal
+The Roborock Guide to Smarter Floor Cleaning
+The ROG Custom Gaming Keyboard Buyer’s Guide
+The Seagate & LaCie External Storage Buyer’s Guide
+The T-Mobile 5G and Fiber Home Internet Buying Guide
+The TP-Link Guide to Modern Mesh Home Wi-Fi
+The ZOTAC GAMING Graphics Card & MEK PC Buyer’s Guide
+Type your search and hit enter
+Hot Topics
+Best laptops
+Best VPN
+Best antivirus
+Best SSDs
+Best monitors
+Laptop deals
+Desktop PC deals
+Newsletters
+When you purchase through links in our articles, we may earn a small commission. This doesn't affect our
+editorial independence
+.
+How-To
+De-Google your life: These 17 privacy-obsessed apps will set you free
+Want to say goodbye to Google services? How to make the switch: We show you the best alternatives to Google Search, Gmail, Android & Co. - for more data protection and digital independence.
+By
+Steffen Zellfelder
+Contributor, PCWorld
+Aug 5, 2025 3:30 am PDT
+Image: Michael Crider / Google
+Google knows what we search for, where we go, who we email—and diligently stores it all as well. For many users, this has long been too much of a “good thing”. If you want to live a more digitally self-determined life, you can gradually turn your back on the data giant from Silicon Valley.
+But to do that means you’ll also need to find alternatives for services such as Google Search, Gmail, Maps etc. Sounds like a lot of effort? It doesn’t have to be. We show you how you can gain more privacy with just a few clicks. Without sacrificing convenience:
+Replace Google search: No more data snooping
+Data protection instead of a data octopus: DuckDuckGo shows search results without tracking or personalized advertising.
+Sam Singleton
+Google search delivers brilliant results—but it lets them look deep into your personal life. If you don’t want to be tracked while surfing, you can rely on search engines that take privacy seriously.
+DuckDuckGo
+DuckDuckGo
+is perhaps the best-known Google alternative. It completely dispenses with tracking, does not store IP addresses and still delivers solid results, especially for general search queries. No user profiles are created and no search histories are recorded. The results come from a mix of its own crawlers and partly from Bing, but occasionally with slightly less accuracy compared to Google.
+Pro:
+Pure data protection, quick and simple changeover from other search engines (also mobile).
+Cons:
+Fewer personalized hits, weaker results for niche topics.
+Startpage
+Startpage
+shows anonymized Google search results—without any tracking, cookies or personalized advertising. This means we get the usual quality of Google searches without our personal data being stored. The service originates from the Netherlands and is subject to European data protection standards.
+Pro:
+Best results with privacy.
+Cons:
+Slightly longer loading times, adverts in the mix (but they’re discreet).
+Gmail? No thanks: Emails without readers
+Tutanota is a German email provider with a zero-tracking philosophy.
+Sam Singleton
+Google scans emails (usually automatically) to personalize advertising and services. If you prefer a more discreet approach, switch to a mail provider with a focus on security. Thankfully, we have plenty of choices, as Gmail is one of the Google services that is easiest to replace.
+Proton Mail
+Proton Mail
+is a secure e-mail service from Switzerland that consistently focusses on data protection. Emails between Proton Mail users are automatically end-to-end encrypted, and password protection can be set up for external recipients. The servers are located in Switzerland and are therefore subject to strict data protection laws. The web interface is modern and easy to understand, there are apps for Android and iOS as well as a bridge for classic mail programs.
+Pro:
+Strong encryption, servers outside the USA.
+Cons:
+Interface takes some getting used to, limited storage in the free plan.
+Do without Android: De-Googling your smartphone
+/e/OS is a completely “de-Googled” open source operating system
+Sam Singleton
+Android may be open source, but the Google services it contains are not. If you want a smartphone that is as “Google-free” as possible, you have to dig deeper into your bag of tricks—or try something completely new.
+/e/OS
+/e/OS
+is a privacy-friendly Android operating system that works completely without Google services. Instead, it offers its own apps, an alternative app store
+(Aurora Store
+) and synchronization via its own /e/ cloud. Many well-known smartphones (such as Samsung and Fairphone) can be reloaded with /e/OS or purchased pre-installed as a “de-Googled Phone”. It’s ideal for everyone who wants to use Android without being tracked by Google.
+Pro:
+Compatible with Android apps, many devices supported.
+Cons:
+Somewhat technical to set up, not all apps run perfectly.
+GrapheneOS (for advanced users)
+GrapheneOS
+is a particularly secure Android derivative that was specially developed for Pixel smartphones. It is aimed at experienced users and focusses on maximum security, system hardening, and data protection. Google services are not included as standard, but can be installed manually if required (sandboxed)—GrapheneOS is not designed for the “normal” use of Google services.
+Pro:
+Extremely secure, hardly any data leakage.
+Cons:
+For technology fans, not “plug & play”, requires some know-how and effort
+Goodbye Google Maps: How to navigate with privacy
+Map service without tracking: The open source app Organic Maps does not use advertising, does not collect any user data, and works completely offline.
+Sam Singleton
+Google Maps knows our routes—oftentimes better than we do. Fortunately, there are alternatives for privacy fans that come with less prying eyes.
+Organic Maps
+Organic Maps
+is an open source navigation app that is based on OSM (OpenStreetMap) maps and works completely without an internet connection. The app does not use tracking or advertising, which makes it particularly privacy-friendly. Ideal for outdoor enthusiasts and anyone who wants to navigate reliably offline, Organic Maps also offers practical functions such as route planning and voice prompts.
+Pro:
+Works without the internet, ideal for travelling.
+Cons:
+No traffic data, weaker POI search.
+Magic Earth
+The
+Magic Earth
+map service combines OpenStreetMap data with its own maps and provides a privacy-friendly alternative to Google Maps. In addition to navigation, the app also offers real-time traffic information, offline maps and an overview of cycle paths and footpaths. With a focus on privacy, Magic Earth does away with user tracking and advertising, but remains functional and user-friendly.
+Pro:
+Good maps, many features, no data transfer.
+Cons:
+Less well-known places are sometimes harder to find.
+Byebye Google Chrome: Fast, but nosy
+Far less widespread than Chrome – but a real high-flyer in terms of data protection and customisation: the Firefox browser.
+Sam Singleton
+Chrome is the top dog among browsers, but it’s also a real data hoover. If you want to surf without being watched, you can switch to these alternatives:
+Firefox
+Firefox
+is the classic among free browsers—fast, secure, expandable. Developed by the Mozilla Foundation, Firefox places great emphasis on transparency and data protection. The browser is flexible and can be highly customized with numerous add-ons: from ad blockers to cookie control.
+Pro:
+Many data protection add-ons, active community.
+Cons:
+Sometimes a little slower than Chrome.
+Brave
+Brave
+is a Chromium browser with in-built tracking protection and ad blocker. It blocks adverts, trackers, and fingerprinting by default, even without extensions.
+Pro:
+Very fast, good privacy by default.
+Cons:
+Partial crypto integration, which not everyone wants.
+No more Google Docs: texts and spreadsheets with better data protections
+ONLYOFFICE is a really strong alternative to Google Docs.
+Sam Singleton
+Practical, collaborative, usable everywhere: these are the strengths of Google Docs. But if you don’t want to store your documents on US servers, there are also good alternatives.
+ONLYOFFICE
+ONLYOFFICE
+is a powerful office suite that works with Word, Excel and PowerPoint-compatible documents and works both online and offline. The platform is particularly suitable for team collaboration and offers extensive functions for word processing, spreadsheets, and presentations. Compared to Google Docs, ONLYOFFICE offers more control over your own data, as the software can also be installed on your own servers.
+Pro:
+Compatible with Word, Excel & Co.
+Cons:
+Somewhat technical to get started (but easy to use in the cloud).
+CryptPad
+CryptPad
+is a web-based office suite that places particular emphasis on data protection and security by storing all data end-to-end encrypted. Users can work together on documents, spreadsheets or presentations without the operator having access to the content. Ideal for anyone who values anonymous use and maximum data sovereignty. CryptPad also offers functions such as surveys, whiteboards, and markdown editors.
+Pro:
+Can be used completely anonymously, no registration required.
+Cons:
+Fewer functions, not ideal for large teams.
+Alternatives for Google Drive: Cloud storage without data snooping
+Tresorit is a cloud provider from Switzerland with a focus on security for teams and individuals.
+Sam Singleton
+Google Drive is convenient, but scans content for its own purposes. If you prefer encrypted storage, you should take a look at these services:
+Tresorit
+The cloud storage service
+Tresorit
+is based in Switzerland and focuses on security and end-to-end encryption. Files are encrypted before being uploaded so that even Tresorit has no access to the content. The servers are located in Europe, which is a clear advantage for users from the EU in terms of data protection. Ideal for companies and private individuals who want to store and share sensitive data securely online.
+Pro:
+End-to-end encryption, GDPR-compliant.
+Cons:
+More expensive than Google Drive.
+Snyc.com
+The Canadian cloud service
+Sync.com
+relies on zero-knowledge encryption. This means that only you have access to your data, not the provider. The service is easy to use, offers apps for all platforms and is ideal for team collaboration. There are no trackers or adverts here either, and even with the free entry-level plan you can get a lot done. It’s a strong Google Drive replacement with significantly more privacy.
+Pro:
+Good usability, can also be used free of charge.
+Cons:
+Sometimes slower uploads, English-language version.
+Google Photos is not irreplaceable: Archive your memories without the prying eyes
+Immich is a self-hosting photo management system with AI functions – without Google.
+Sam Singleton
+Google recognizes faces, places, and objects in pictures. And while this is impressive, it’s too much for many people. If you want to store your photos securely, you need alternatives.
+Immich
+Immich
+is an open-source solution for managing and backing up photos on your own server or NAS. The user interface is reminiscent of Google Photos—including face recognition, albums, timelines and AI-supported search. All data remains local and under your own control. Ideal for anyone who wants maximum privacy and is prepared to bring some technical know-how to the table.
+Pro:
+Face recognition locally, no cloud compulsion.
+Cons:
+Technical expertise required.
+Internxt Photos
+Simple cloud service with a focus on encryption:
+Internxt Photos
+stores images in the cloud—completely end-to-end encrypted so that no one but you can access them. The app is simple, functional and available for desktop and mobile devices. It has server locations in numerous place including in the EU, and no advertising or tracking. Particularly suitable for anyone who wants to store their photos securely online without relying on big tech providers.
+Pro:
+GDPR-compliant, intuitive operation.
+Cons:
+Fewer features than Google Photos.
+Bonus tip: Independence from YouTube—is that even possible?
+YouTube is hard to replace – also because you can find The Full Nerd videos there.
+Sam Singleton
+To be honest: not really. YouTube is not just a video portal, but has long been a gigantic archive for tutorials, documentaries, music, live streams and nerd knowledge. If you don’t use it at all, you’re missing out on a lot. Nevertheless, there are ways to become at least a little more independent—or to use YouTube more sparingly.
+NewPipe
+NewPipe
+is an alternative YouTube app for Android (for using YouTube) that works without a Google account, does not show adverts and also has a background mode on board.
+Pro:
+No registration required, no tracking, videos can be downloaded directly.
+Cons:
+Only for Android, no commenting or liking possible.
+Peertube
+Peertube
+is a free, decentralized video network that sees itself as a counterpart to YouTube. Content comes from many small instances, without a nosy large corporation behind it. Unlike the NewPipe app presented above, it’s a genuine alternative to YouTube with its very own content.
+Pro:
+Open source, ad-free, community-based.
+Cons:
+Smaller offering, difficult to browse.
+Conclusion: Escaping the Google universe step by step
+In the modern, digitalized world, living without Google is almost as difficult as living without electricity. But it is possible, at least in part. If you consciously look for alternatives, you can reduce tracking, strengthen data protection, and gain more control over your own data. Opting out doesn’t have to be a radical break: even small steps (such as an alternative browser or a new search engine) can have a big impact.
+This article originally appeared on our sister publication
+PC-WELT
+and was translated and localized from German.
+Author: Steffen Zellfelder
+, Contributor, PCWorld
+Steffen Zellfelder is a freelance graduate journalist from Bonn. As an experienced software expert, he is particularly enthusiastic about apps, tools and future trends.
+Recent stories by Steffen Zellfelder:
+Your forgotten email accounts are more dangerous than you think
+Worried your PayPal account was hacked? Here’s how to take back control
+Get more out of YouTube: 17 helpful tips, tricks, and tweaks
