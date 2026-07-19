@@ -1,0 +1,50 @@
+{
+    "url": "https://ourworldindata.org/food-choice-vs-eating-local",
+    "title": "You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local | Our World in Data",
+    "summary_counts": {
+        "images_found": 7,
+        "files_found": 0,
+        "total_links": 23,
+        "scripts": 0,
+        "stylesheets": 1
+    },
+    "images": [
+        "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/f72c27f8-a0b1-40a3-64cd-e93d1431b800/w=2933",
+        "https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/f72c27f8-a0b1-40a3-64cd-e93d1431b800/w=48",
+        "https://ourworldindata.org/gcdl-logo.svg",
+        "https://ourworldindata.org/grapher/food-emissions-supply-chain.png",
+        "https://ourworldindata.org/oms-logo.svg",
+        "https://ourworldindata.org/owid-logo.svg",
+        "https://ourworldindata.org/oxford-logo.svg"
+    ],
+    "downloadable_files": [],
+    "all_links": [
+        "https://creativecommons.org/licenses/by/4.0",
+        "https://global-change-data-lab.org",
+        "https://link.springer.com/article/10.1007/s11367-009-0091-7",
+        "https://ourworldindata.org",
+        "https://ourworldindata.org/co2-and-greenhouse-gas-emissions",
+        "https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions",
+        "https://ourworldindata.org/donate",
+        "https://ourworldindata.org/faqs",
+        "https://ourworldindata.org/food-choice-vs-eating-local",
+        "https://ourworldindata.org/food-ghg-emissions",
+        "https://ourworldindata.org/grapher/food-emissions-supply-chain",
+        "https://ourworldindata.org/grapher/food-miles-by-transport",
+        "https://ourworldindata.org/grapher/share-food-miles-by-method",
+        "https://ourworldindata.org/subscribe",
+        "https://ourworldindata.org/team/hannah-ritchie",
+        "https://pubs.acs.org/doi/abs/10.1021/es702969f",
+        "https://science.sciencemag.org/content/360/6392/987",
+        "https://twitter.com/UN/status/1188622911080415235?s=20",
+        "https://www.ox.ac.uk",
+        "https://www.oxfordmartin.ox.ac.uk/global-development",
+        "https://www.pewresearch.org/fact-tank/2019/04/18/a-look-at-how-people-around-the-world-view-climate-change",
+        "https://www.sciencedirect.com/science/article/abs/pii/S0921800902002616",
+        "https://www.sciencedirect.com/science/article/pii/S2211912418300361"
+    ],
+    "scripts": [],
+    "stylesheets": [
+        "https://ourworldindata.org/assets/owid.css"
+    ]
+}

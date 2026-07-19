@@ -1,6 +1,7 @@
 import os
 import re
 import json
+from datetime import datetime
 from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
@@ -11,12 +12,77 @@ def sanitize_filename(filename, fallback="scraped_website"):
     """
     if not filename or not filename.strip():
         return fallback
-    # Remove characters that aren't allowed in filenames
     clean_name = re.sub(r'[\\/*?:"<>|]', "", filename.strip())
-    # Replace spaces and repeated underscores/dashes with a single underscore
     clean_name = re.sub(r'[\s\-]+', "_", clean_name)
-    # Truncate to 100 chars to avoid OS max filename length limits
     return clean_name[:100].lower().strip("_")
+
+def generate_readme(data, output_dir, file_base_name):
+    """
+    Generates a high-quality Markdown README summarizing the scraped data.
+    """
+    readme_path = os.path.join(output_dir, f"{file_base_name}_README.md")
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    
+    # Format a list of files if any were found
+    files_section = "No downloadable files detected on this page."
+    if data['downloadable_files']:
+        files_list = "\n".join([f"* [{os.path.basename(f) or 'Download Link'}]({f})" for f in data['downloadable_files'][:15]])
+        files_section = f"Here are the primary files discovered on this page:\n\n{files_list}"
+        if len(data['downloadable_files']) > 15:
+            files_section += f"\n\n*(...and {len(data['downloadable_files']) - 15} more listed in the JSON report)*"
+
+    # Format sample links
+    links_section = "No external/internal links found."
+    if data['all_links']:
+        links_list = "\n".join([f"* {link}" for link in data['all_links'][:10]])
+        links_section = f"{links_list}\n\n*(See `{file_base_name}.json` for the complete list of {len(data['all_links'])} links)*"
+
+    readme_content = f"""# 🌐 Scraping Report: {data['title']}
+
+**Target URL:** [{data['url']}]({data['url']})  
+**Scraping Timestamp:** `{timestamp}`  
+
+---
+
+## 📊 Executive Summary
+
+This package contains the automated extraction logs, raw text content, and media paths harvested from **{data['title']}**. 
+
+| Resource Type | Total Harvested |
+| :--- | :---: |
+| 🖼️ **Images & Responsive Sources** | `{data['summary_counts']['images_found']}` |
+| 💾 **Downloadable Files** *(PDFs, Docs, Archives)* | `{data['summary_counts']['files_found']}` |
+| 🔗 **Webpage Links** *(Internal & External)* | `{data['summary_counts']['total_links']}` |
+| 📜 **JavaScript Files** | `{data['summary_counts']['scripts']}` |
+| 🎨 **Stylesheets** | `{data['summary_counts']['stylesheets']}` |
+
+---
+
+## 💾 Discovered Files & Documents
+{files_section}
+
+---
+
+## 🔗 Sample Navigation Links
+{links_section}
+
+---
+
+## 📂 About These Files
+
+Your extraction output generated three distinct files in this directory:
+1. **`{file_base_name}_README.md`** — This executive summary document.
+2. **`{file_base_name}.json`** — The complete, machine-readable dataset containing every absolute URL, script path, and media link.
+3. **`{file_base_name}.txt`** — The stripped, clean text content of the webpage (free of HTML, navigation menus, and JavaScript).
+
+---
+
+*Generated automatically by SiteHarvester Python Utility.*
+"""
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(readme_content.strip())
+        
+    return readme_path
 
 def scrape_website(url, output_dir="scraped_output"):
     """
@@ -42,7 +108,6 @@ def scrape_website(url, output_dir="scraped_output"):
     raw_title = soup.title.string.strip() if soup.title and soup.title.string else ""
     domain_fallback = urlparse(url).netloc.replace(".", "_")
     
-    # Use the title for the filename, falling back to domain if title is missing
     file_base_name = sanitize_filename(raw_title, fallback=domain_fallback)
     display_title = raw_title if raw_title else "No Title Found"
     
@@ -77,7 +142,6 @@ def scrape_website(url, output_dir="scraped_output"):
     for a_tag in soup.find_all("a", href=True):
         full_url = urljoin(url, a_tag["href"])
         clean_url = full_url.split("#")[0]
-        # Normalize trailing slashes to prevent duplicate counts
         if clean_url.endswith("/"):
             clean_url = clean_url[:-1]
         
@@ -118,12 +182,16 @@ def scrape_website(url, output_dir="scraped_output"):
     with open(txt_path, "w", encoding="utf-8") as f:
         f.write(f"TITLE: {display_title}\nURL: {url}\n{'='*50}\n\n{clean_text}")
 
+    # Generate and save the README summary
+    readme_path = generate_readme(data, output_dir, file_base_name)
+
     print(f"\n[+] Extraction Complete!")
     print(f"    - Extracted {len(images)} images")
     print(f"    - Extracted {len(files)} downloadable files")
     print(f"    - Extracted {len(all_links)} webpage links")
-    print(f"    - Saved JSON report to: {json_path}")
-    print(f"    - Saved text content to: {txt_path}")
+    print(f"    - Saved JSON report:   {json_path}")
+    print(f"    - Saved text content:  {txt_path}")
+    print(f"    - Saved README report: {readme_path}")
 
     return data
 
